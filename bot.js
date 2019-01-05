@@ -34,7 +34,7 @@ spam4.on('ready', () => {//Toxic Codes
 const prefix = "1";
 
 client.on("ready", () => {
-let channel = client.channels.get("530751392168804375")
+let channel = client.channels.get("530714965942730753")
 setInterval(function() {
 channel.send(`I NEED CREDITS NOW`);
 }, 999)
