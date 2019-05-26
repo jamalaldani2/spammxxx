@@ -25,7 +25,7 @@ spam2.on('ready', () => {//Toxic Codes
 
 spam4.on('ready', () => {//Toxic Codes
     console.log(`Logged in as ${spam4.user.tag} !`);//Toxic Codes
-          spam4.user.setActivity("by n3k4a|Premiumbot|Toxic Codes  .",{type: 'WATCHING'});//Toxic Codes
+          spam4.user.setActivity("by n3k4a|Premiumbot|Toxc Codes  .",{type: 'WATCHING'});//Toxic Codes
   //Toxic Codes
   });//Toxic Codes
 
